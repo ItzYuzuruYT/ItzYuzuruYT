@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItzYuzuruYT)](https://github.com/ItzYuzuruYT/github-profile-trophy)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzYuzuruYT&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></p>
 
-[![ItzYuzuruYT_MOST_USED_LANGS](https://github-readme-stats.vercel.app/api/top-langs?username=ItzYuzuruYT&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=ItzYuzuruYT&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ItzYuzuruYT&show_icons=true&theme=tokyonight&locale=en"/></p>
 
-[![ItzYuzuruYT_GITHUB_STATS](https://github-readme-stats.vercel.app/api?username=ItzYuzuruYT&show_icons=true&theme=tokyonight&locale=en)](https://github-readme-stats.vercel.app/api?username=ItzYuzuruYT&show_icons=true&theme=tokyonight&locale=en)
