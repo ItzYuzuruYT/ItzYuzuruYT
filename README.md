@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Yuzuru</h1>
-<h2 align="center">A DUMB DEVELOPER</h2>
+<h2 align="center">A STANDALONE DEVELOPER</h2>
 
 [![trophy](https://komarev.com/ghpvc/?username=ItzYuzuruYT&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=ItzYuzuruYT&label=Profile%20views&color=0e75b6&style=flat)
 
